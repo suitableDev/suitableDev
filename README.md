@@ -1,5 +1,5 @@
 # Hello I'm Scott James
-- ✉ Postman looking to become a full time software engineer
+- ✉ Postman looking to become a full-time software engineer
 - 👨🏼‍🎓 Have a comp sci degree
 - 🧠 Interested in full stack development
 - 💻 Have professional experience
